@@ -2,7 +2,7 @@
 
 A terminal user interface (TUI) for browsing and playing media from your Jellyfin server.
 
-![Jellyfin TUI Screenshot](screenshot.png)
+![Jellyfin TUI Screenshot](jellyfin-tui.gif)
 
 ## Features
 

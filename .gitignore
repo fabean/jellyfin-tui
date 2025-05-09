@@ -34,6 +34,3 @@ dist/
 
 # Log files
 *.log
-
-# Specific to your project
-jellyfin-tui
