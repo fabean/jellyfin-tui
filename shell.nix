@@ -1,7 +1,7 @@
 { pkgs ? import <nixpkgs> {} }:
 
 (pkgs.buildFHSUserEnv {
-  name = "ytviewer";
+  name = "jellyfin-tui";
   targetPkgs = pkgs: with pkgs; [
     go
     mpv
